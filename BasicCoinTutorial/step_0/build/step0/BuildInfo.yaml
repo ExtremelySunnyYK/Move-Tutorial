@@ -1,0 +1,17 @@
+---
+compiled_package_info:
+  package_name: step0
+  address_alias_instantiation: {}
+  source_digest: AD7D52AD5BF5D027620D70A9AA52B12013FF71F489FED174A7DA9B5D8DED8339
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+dependencies: []

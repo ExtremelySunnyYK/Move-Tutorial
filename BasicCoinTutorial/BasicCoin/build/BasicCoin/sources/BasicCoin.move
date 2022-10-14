@@ -21,6 +21,6 @@ module 0xCAFE::BasicCoin {
         // Make sure there is a `Coin` resource under `addr` with a value of `10`.
         // We can access this resource and its value since we are in the
         // same module that defined the `Coin` resource.
-        assert!(borrow_global<Coin>(addr).value == 10, 0);
+        assert!(borrow_global<Coin>(addr).value == 11, 0);
     }
 }
