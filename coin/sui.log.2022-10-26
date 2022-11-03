@@ -1,0 +1,10 @@
+2022-10-26T07:21:45.239372Z  INFO sui::client_commands: 0x2bc411784207b6c5629893818c874dd675656f87
+2022-10-26T07:22:38.344082Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-10-26T07:22:38.345384Z  INFO sui::client_commands: Transaction Hash: rQqHFrftQr2HlsEIM8ndF+yYqu39tnmFXhunoqb6vBM=
+2022-10-26T07:22:38.345392Z  INFO sui::client_commands: Transaction Signature: AA==@Skfk4anVY2G0NQnbrgVwlbQkGP0z6L96hg/unUnyxLUBOy5LEO7x7RXBq6D70m0QG7igDhwHN4WXCoD0t1SQCg==@saBUuObfufRYyWARaCmqIum0rk4Wpb75T2zK8hy6ZZ0=
+2022-10-26T07:22:38.345396Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 2, 3]>
+2022-10-26T07:22:38.345399Z  INFO sui::client_commands: Transaction Kind : Publish
+2022-10-26T07:22:38.345402Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-10-26T07:22:38.345404Z  INFO sui::client_commands: Status : Failure { error: "InsufficientGas" }
+2022-10-26T07:22:38.345407Z  INFO sui::client_commands: Mutated Objects:
+2022-10-26T07:22:38.345410Z  INFO sui::client_commands:   - ID: 0x411890b607136895c9bf44255cfcda9b9b67abe1 , Owner: Account Address ( 0x2bc411784207b6c5629893818c874dd675656f87 )

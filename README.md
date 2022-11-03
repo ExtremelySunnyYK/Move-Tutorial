@@ -25,3 +25,10 @@ sui move test --filter sword
 ```
 
 For more info check out https://docs.sui.io/build/move/write-package
+
+
+Publishing on chain
+
+```bash
+sui client publish --path SUI_Objects/sui_objects --gas-budget 10000
+```
